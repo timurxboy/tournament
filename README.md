@@ -93,12 +93,14 @@ POST /tournaments
 
 Создаёт новый турнир.
 
+- start_at - должен быть датой и временем в будущем.
+
 Запрос:
 ```
 {
   "name": "Weekend Cup",
   "max_players": 8,
-  "start_at": "2025-06-23T17:40:00"
+  "start_at": "2026-06-23T17:40:00"
 }
 ```
 
@@ -108,7 +110,7 @@ POST /tournaments
   "id": 1,
   "name": "Weekend Cup",
   "max_players": 8,
-  "start_at": "2025-06-23T17:40:00Z"
+  "start_at": "2026-06-23T17:40:00Z"
 }
 ```
 
@@ -131,7 +133,7 @@ POST /tournaments/{tournament_id}/register
   "id": 1,
   "name": "Weekend Cup",
   "max_players": 8,
-  "start_at": "2025-06-23T17:40:00Z",
+  "start_at": "2026-06-23T17:40:00Z",
   "registered_players": 1
 }
 ```

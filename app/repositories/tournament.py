@@ -22,12 +22,12 @@ class TournamentRepo:
     ):
         order = desc if pagination.order_by == OrderByEnum.DESC else asc
 
-        filter_by = {}
+        filters = []
         if name:
-            filter_by["name"] = name
+            filters.append(cls.model.name == name)
 
         # Формируем запрос для подсчета общего количества элементов с учетом фильтров и получаем общее количество записей
-        total_query = select(func.count()).select_from(cls.model).filter_by(**filter_by)
+        total_query = select(func.count()).select_from(cls.model).filter(*filters)
         total_result = await db.execute(total_query)
         total_count = total_result.scalar() or 0
 
@@ -40,7 +40,7 @@ class TournamentRepo:
                 cls.model, func.count(RegistrationCard.id).label("registered_players")
             )
             .outerjoin(RegistrationCard)
-            .filter_by(**filter_by)
+            .filter(*filters)
             .group_by(cls.model.id)
             .order_by(order(getattr(cls.model, pagination.sort_by.value)))
             .limit(pagination.per_page)
