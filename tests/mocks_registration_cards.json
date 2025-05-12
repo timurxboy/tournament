@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1000,
+    "tournament_id": 1005,
+    "player_id": 1016
+  },
+  {
+    "id": 1001,
+    "tournament_id": 1001,
+    "player_id": 1002
+  },
+  {
+    "id": 1002,
+    "tournament_id": 1012,
+    "player_id": 1097
+  },
+  {
+    "id": 1003,
+    "tournament_id": 1000,
+    "player_id": 1085
+  },
+  {
+    "id": 1004,
+    "tournament_id": 1005,
+    "player_id": 1037
+  },
+  {
+    "id": 1005,
+    "tournament_id": 1008,
+    "player_id": 1075
+  },
+  {
+    "id": 1006,
+    "tournament_id": 1018,
+    "player_id": 1008
+  },
+  {
+    "id": 1007,
+    "tournament_id": 1004,
+    "player_id": 1087
+  },
+  {
+    "id": 1008,
+    "tournament_id": 1013,
+    "player_id": 1061
+  },
+  {
+    "id": 1009,
+    "tournament_id": 1012,
+    "player_id": 1020
+  },
+  {
+    "id": 1010,
+    "tournament_id": 1004,
+    "player_id": 1007
+  },
+  {
+    "id": 1011,
+    "tournament_id": 1008,
+    "player_id": 1002
+  },
+  {
+    "id": 1012,
+    "tournament_id": 1013,
+    "player_id": 1095
+  },
+  {
+    "id": 1013,
+    "tournament_id": 1014,
+    "player_id": 1014
+  },
+  {
+    "id": 1014,
+    "tournament_id": 1013,
+    "player_id": 1084
+  },
+  {
+    "id": 1015,
+    "tournament_id": 1019,
+    "player_id": 1021
+  },
+  {
+    "id": 1016,
+    "tournament_id": 1018,
+    "player_id": 1011
+  },
+  {
+    "id": 1017,
+    "tournament_id": 1008,
+    "player_id": 1031
+  },
+  {
+    "id": 1018,
+    "tournament_id": 1005,
+    "player_id": 1065
+  },
+  {
+    "id": 1019,
+    "tournament_id": 1007,
+    "player_id": 1047
+  },
+  {
+    "id": 1020,
+    "tournament_id": 1009,
+    "player_id": 1022
+  },
+  {
+    "id": 1021,
+    "tournament_id": 1016,
+    "player_id": 1002
+  },
+  {
+    "id": 1022,
+    "tournament_id": 1020,
+    "player_id": 1081
+  },
+  {
+    "id": 1023,
+    "tournament_id": 1001,
+    "player_id": 1048
+  },
+  {
+    "id": 1024,
+    "tournament_id": 1012,
+    "player_id": 1099
+  },
+  {
+    "id": 1025,
+    "tournament_id": 1004,
+    "player_id": 1083
+  },
+  {
+    "id": 1026,
+    "tournament_id": 1018,
+    "player_id": 1041
+  },
+  {
+    "id": 1027,
+    "tournament_id": 1013,
+    "player_id": 1095
+  },
+  {
+    "id": 1028,
+    "tournament_id": 1012,
+    "player_id": 1052
+  },
+  {
+    "id": 1029,
+    "tournament_id": 1005,
+    "player_id": 1093
+  },
+  {
+    "id": 1030,
+    "tournament_id": 1010,
+    "player_id": 1037
+  },
+  {
+    "id": 1031,
+    "tournament_id": 1017,
+    "player_id": 1035
+  },
+  {
+    "id": 1032,
+    "tournament_id": 1014,
+    "player_id": 1020
+  },
+  {
+    "id": 1033,
+    "tournament_id": 1008,
+    "player_id": 1010
+  },
+  {
+    "id": 1034,
+    "tournament_id": 1011,
+    "player_id": 1048
+  },
+  {
+    "id": 1035,
+    "tournament_id": 1005,
+    "player_id": 1016
+  },
+  {
+    "id": 1036,
+    "tournament_id": 1005,
+    "player_id": 1050
+  },
+  {
+    "id": 1037,
+    "tournament_id": 1005,
+    "player_id": 1007
+  },
+  {
+    "id": 1038,
+    "tournament_id": 1002,
+    "player_id": 1091
+  },
+  {
+    "id": 1039,
+    "tournament_id": 1015,
+    "player_id": 1004
+  },
+  {
+    "id": 1040,
+    "tournament_id": 1009,
+    "player_id": 1071
+  },
+  {
+    "id": 1041,
+    "tournament_id": 1017,
+    "player_id": 1050
+  },
+  {
+    "id": 1042,
+    "tournament_id": 1020,
+    "player_id": 1099
+  },
+  {
+    "id": 1043,
+    "tournament_id": 1002,
+    "player_id": 1071
+  },
+  {
+    "id": 1044,
+    "tournament_id": 1016,
+    "player_id": 1070
+  },
+  {
+    "id": 1045,
+    "tournament_id": 1013,
+    "player_id": 1100
+  },
+  {
+    "id": 1046,
+    "tournament_id": 1020,
+    "player_id": 1032
+  },
+  {
+    "id": 1047,
+    "tournament_id": 1012,
+    "player_id": 1011
+  },
+  {
+    "id": 1048,
+    "tournament_id": 1004,
+    "player_id": 1038
+  },
+  {
+    "id": 1049,
+    "tournament_id": 1008,
+    "player_id": 1003
+  },
+  {
+    "id": 1050,
+    "tournament_id": 1007,
+    "player_id": 1060
+  },
+  {
+    "id": 1051,
+    "tournament_id": 1009,
+    "player_id": 1055
+  },
+  {
+    "id": 1052,
+    "tournament_id": 1020,
+    "player_id": 1091
+  },
+  {
+    "id": 1053,
+    "tournament_id": 1018,
+    "player_id": 1059
+  },
+  {
+    "id": 1054,
+    "tournament_id": 1008,
+    "player_id": 1035
+  },
+  {
+    "id": 1055,
+    "tournament_id": 1015,
+    "player_id": 1091
+  },
+  {
+    "id": 1056,
+    "tournament_id": 1012,
+    "player_id": 1031
+  },
+  {
+    "id": 1057,
+    "tournament_id": 1015,
+    "player_id": 1013
+  },
+  {
+    "id": 1058,
+    "tournament_id": 1000,
+    "player_id": 1066
+  },
+  {
+    "id": 1059,
+    "tournament_id": 1005,
+    "player_id": 1019
+  },
+  {
+    "id": 1060,
+    "tournament_id": 1014,
+    "player_id": 1060
+  },
+  {
+    "id": 1061,
+    "tournament_id": 1002,
+    "player_id": 1030
+  },
+  {
+    "id": 1062,
+    "tournament_id": 1019,
+    "player_id": 1043
+  },
+  {
+    "id": 1063,
+    "tournament_id": 1011,
+    "player_id": 1000
+  },
+  {
+    "id": 1064,
+    "tournament_id": 1020,
+    "player_id": 1052
+  },
+  {
+    "id": 1065,
+    "tournament_id": 1017,
+    "player_id": 1053
+  },
+  {
+    "id": 1066,
+    "tournament_id": 1010,
+    "player_id": 1014
+  },
+  {
+    "id": 1067,
+    "tournament_id": 1020,
+    "player_id": 1017
+  },
+  {
+    "id": 1068,
+    "tournament_id": 1008,
+    "player_id": 1022
+  },
+  {
+    "id": 1069,
+    "tournament_id": 1009,
+    "player_id": 1012
+  },
+  {
+    "id": 1070,
+    "tournament_id": 1017,
+    "player_id": 1069
+  },
+  {
+    "id": 1071,
+    "tournament_id": 1005,
+    "player_id": 1052
+  },
+  {
+    "id": 1072,
+    "tournament_id": 1008,
+    "player_id": 1005
+  },
+  {
+    "id": 1073,
+    "tournament_id": 1003,
+    "player_id": 1001
+  },
+  {
+    "id": 1074,
+    "tournament_id": 1014,
+    "player_id": 1094
+  },
+  {
+    "id": 1075,
+    "tournament_id": 1007,
+    "player_id": 1049
+  },
+  {
+    "id": 1076,
+    "tournament_id": 1012,
+    "player_id": 1061
+  },
+  {
+    "id": 1077,
+    "tournament_id": 1000,
+    "player_id": 1055
+  },
+  {
+    "id": 1078,
+    "tournament_id": 1000,
+    "player_id": 1082
+  },
+  {
+    "id": 1079,
+    "tournament_id": 1004,
+    "player_id": 1016
+  },
+  {
+    "id": 1080,
+    "tournament_id": 1017,
+    "player_id": 1099
+  },
+  {
+    "id": 1081,
+    "tournament_id": 1009,
+    "player_id": 1065
+  },
+  {
+    "id": 1082,
+    "tournament_id": 1013,
+    "player_id": 1012
+  },
+  {
+    "id": 1083,
+    "tournament_id": 1011,
+    "player_id": 1013
+  },
+  {
+    "id": 1084,
+    "tournament_id": 1000,
+    "player_id": 1009
+  },
+  {
+    "id": 1085,
+    "tournament_id": 1018,
+    "player_id": 1050
+  },
+  {
+    "id": 1086,
+    "tournament_id": 1018,
+    "player_id": 1042
+  },
+  {
+    "id": 1087,
+    "tournament_id": 1010,
+    "player_id": 1059
+  },
+  {
+    "id": 1088,
+    "tournament_id": 1016,
+    "player_id": 1011
+  },
+  {
+    "id": 1089,
+    "tournament_id": 1010,
+    "player_id": 1086
+  },
+  {
+    "id": 1090,
+    "tournament_id": 1015,
+    "player_id": 1088
+  },
+  {
+    "id": 1091,
+    "tournament_id": 1015,
+    "player_id": 1028
+  },
+  {
+    "id": 1092,
+    "tournament_id": 1008,
+    "player_id": 1022
+  },
+  {
+    "id": 1093,
+    "tournament_id": 1000,
+    "player_id": 1011
+  },
+  {
+    "id": 1094,
+    "tournament_id": 1020,
+    "player_id": 1088
+  },
+  {
+    "id": 1095,
+    "tournament_id": 1014,
+    "player_id": 1056
+  },
+  {
+    "id": 1096,
+    "tournament_id": 1000,
+    "player_id": 1037
+  },
+  {
+    "id": 1097,
+    "tournament_id": 1019,
+    "player_id": 1065
+  },
+  {
+    "id": 1098,
+    "tournament_id": 1006,
+    "player_id": 1064
+  },
+  {
+    "id": 1099,
+    "tournament_id": 1006,
+    "player_id": 1001
+  },
+  {
+    "id": 1100,
+    "tournament_id": 1013,
+    "player_id": 1076
+  },
+  {
+    "id": 1101,
+    "tournament_id": 1006,
+    "player_id": 1091
+  },
+  {
+    "id": 1102,
+    "tournament_id": 1010,
+    "player_id": 1037
+  },
+  {
+    "id": 1103,
+    "tournament_id": 1009,
+    "player_id": 1006
+  },
+  {
+    "id": 1104,
+    "tournament_id": 1011,
+    "player_id": 1012
+  },
+  {
+    "id": 1105,
+    "tournament_id": 1000,
+    "player_id": 1077
+  },
+  {
+    "id": 1106,
+    "tournament_id": 1014,
+    "player_id": 1047
+  },
+  {
+    "id": 1107,
+    "tournament_id": 1006,
+    "player_id": 1051
+  },
+  {
+    "id": 1108,
+    "tournament_id": 1016,
+    "player_id": 1070
+  },
+  {
+    "id": 1109,
+    "tournament_id": 1019,
+    "player_id": 1017
+  },
+  {
+    "id": 1110,
+    "tournament_id": 1003,
+    "player_id": 1028
+  },
+  {
+    "id": 1111,
+    "tournament_id": 1000,
+    "player_id": 1019
+  },
+  {
+    "id": 1112,
+    "tournament_id": 1017,
+    "player_id": 1002
+  },
+  {
+    "id": 1113,
+    "tournament_id": 1014,
+    "player_id": 1092
+  },
+  {
+    "id": 1114,
+    "tournament_id": 1015,
+    "player_id": 1086
+  },
+  {
+    "id": 1115,
+    "tournament_id": 1009,
+    "player_id": 1003
+  },
+  {
+    "id": 1116,
+    "tournament_id": 1005,
+    "player_id": 1010
+  },
+  {
+    "id": 1117,
+    "tournament_id": 1004,
+    "player_id": 1002
+  },
+  {
+    "id": 1118,
+    "tournament_id": 1003,
+    "player_id": 1006
+  },
+  {
+    "id": 1119,
+    "tournament_id": 1008,
+    "player_id": 1053
+  },
+  {
+    "id": 1120,
+    "tournament_id": 1020,
+    "player_id": 1038
+  },
+  {
+    "id": 1121,
+    "tournament_id": 1000,
+    "player_id": 1003
+  },
+  {
+    "id": 1122,
+    "tournament_id": 1013,
+    "player_id": 1040
+  },
+  {
+    "id": 1123,
+    "tournament_id": 1004,
+    "player_id": 1078
+  },
+  {
+    "id": 1124,
+    "tournament_id": 1012,
+    "player_id": 1069
+  },
+  {
+    "id": 1125,
+    "tournament_id": 1019,
+    "player_id": 1073
+  },
+  {
+    "id": 1126,
+    "tournament_id": 1007,
+    "player_id": 1088
+  },
+  {
+    "id": 1127,
+    "tournament_id": 1005,
+    "player_id": 1052
+  },
+  {
+    "id": 1128,
+    "tournament_id": 1017,
+    "player_id": 1090
+  },
+  {
+    "id": 1129,
+    "tournament_id": 1011,
+    "player_id": 1096
+  },
+  {
+    "id": 1130,
+    "tournament_id": 1020,
+    "player_id": 1046
+  },
+  {
+    "id": 1131,
+    "tournament_id": 1004,
+    "player_id": 1050
+  },
+  {
+    "id": 1132,
+    "tournament_id": 1006,
+    "player_id": 1022
+  },
+  {
+    "id": 1133,
+    "tournament_id": 1002,
+    "player_id": 1058
+  },
+  {
+    "id": 1134,
+    "tournament_id": 1002,
+    "player_id": 1077
+  },
+  {
+    "id": 1135,
+    "tournament_id": 1013,
+    "player_id": 1053
+  },
+  {
+    "id": 1136,
+    "tournament_id": 1007,
+    "player_id": 1011
+  },
+  {
+    "id": 1137,
+    "tournament_id": 1008,
+    "player_id": 1070
+  },
+  {
+    "id": 1138,
+    "tournament_id": 1009,
+    "player_id": 1050
+  },
+  {
+    "id": 1139,
+    "tournament_id": 1006,
+    "player_id": 1000
+  },
+  {
+    "id": 1140,
+    "tournament_id": 1017,
+    "player_id": 1014
+  },
+  {
+    "id": 1141,
+    "tournament_id": 1018,
+    "player_id": 1001
+  },
+  {
+    "id": 1142,
+    "tournament_id": 1020,
+    "player_id": 1038
+  },
+  {
+    "id": 1143,
+    "tournament_id": 1002,
+    "player_id": 1092
+  },
+  {
+    "id": 1144,
+    "tournament_id": 1007,
+    "player_id": 1059
+  },
+  {
+    "id": 1145,
+    "tournament_id": 1016,
+    "player_id": 1011
+  },
+  {
+    "id": 1146,
+    "tournament_id": 1018,
+    "player_id": 1053
+  },
+  {
+    "id": 1147,
+    "tournament_id": 1008,
+    "player_id": 1052
+  },
+  {
+    "id": 1148,
+    "tournament_id": 1005,
+    "player_id": 1053
+  },
+  {
+    "id": 1149,
+    "tournament_id": 1016,
+    "player_id": 1081
+  }
+]

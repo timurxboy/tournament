@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1000,
+    "name": "Beckstad Open Championship",
+    "max_players": 24,
+    "start_at": "2025-06-01T00:00:00"
+  },
+  {
+    "id": 1001,
+    "name": "South Steven Open Championship",
+    "max_players": 32,
+    "start_at": "2025-06-02T00:00:00"
+  },
+  {
+    "id": 1002,
+    "name": "East Robertport Open Cup",
+    "max_players": 16,
+    "start_at": "2025-06-03T00:00:00"
+  },
+  {
+    "id": 1003,
+    "name": "West Wayne Open Cup",
+    "max_players": 20,
+    "start_at": "2025-06-04T00:00:00"
+  },
+  {
+    "id": 1004,
+    "name": "South Evelynmouth Open Championship",
+    "max_players": 16,
+    "start_at": "2025-06-05T00:00:00"
+  },
+  {
+    "id": 1005,
+    "name": "West Paigeberg Open Cup",
+    "max_players": 16,
+    "start_at": "2025-06-06T00:00:00"
+  },
+  {
+    "id": 1006,
+    "name": "West Albertberg Open Cup",
+    "max_players": 8,
+    "start_at": "2025-06-07T00:00:00"
+  },
+  {
+    "id": 1007,
+    "name": "South Lisa Open Championship",
+    "max_players": 12,
+    "start_at": "2025-06-08T00:00:00"
+  },
+  {
+    "id": 1008,
+    "name": "New David Open Cup",
+    "max_players": 24,
+    "start_at": "2025-06-09T00:00:00"
+  },
+  {
+    "id": 1009,
+    "name": "Mclaughlinton Open Cup",
+    "max_players": 20,
+    "start_at": "2025-06-10T00:00:00"
+  },
+  {
+    "id": 1010,
+    "name": "Loriville Open Championship",
+    "max_players": 20,
+    "start_at": "2025-06-11T00:00:00"
+  },
+  {
+    "id": 1011,
+    "name": "East Brookeport Open Championship",
+    "max_players": 32,
+    "start_at": "2025-06-12T00:00:00"
+  },
+  {
+    "id": 1012,
+    "name": "Elizabethtown Open Championship",
+    "max_players": 24,
+    "start_at": "2025-06-13T00:00:00"
+  },
+  {
+    "id": 1013,
+    "name": "Davidview Open Tournament",
+    "max_players": 16,
+    "start_at": "2025-06-14T00:00:00"
+  },
+  {
+    "id": 1014,
+    "name": "Martinbury Open Tournament",
+    "max_players": 12,
+    "start_at": "2025-06-15T00:00:00"
+  },
+  {
+    "id": 1015,
+    "name": "Taylormouth Open Championship",
+    "max_players": 16,
+    "start_at": "2025-06-16T00:00:00"
+  },
+  {
+    "id": 1016,
+    "name": "Christopherchester Open Championship",
+    "max_players": 8,
+    "start_at": "2025-06-17T00:00:00"
+  },
+  {
+    "id": 1017,
+    "name": "South Kimberlymouth Open Championship",
+    "max_players": 12,
+    "start_at": "2025-06-18T00:00:00"
+  },
+  {
+    "id": 1018,
+    "name": "East Brianchester Open Tournament",
+    "max_players": 8,
+    "start_at": "2025-06-19T00:00:00"
+  },
+  {
+    "id": 1019,
+    "name": "West Bernard Open Championship",
+    "max_players": 16,
+    "start_at": "2025-06-20T00:00:00"
+  },
+  {
+    "id": 1020,
+    "name": "Spring Championship",
+    "max_players": 16,
+    "start_at": "2025-06-21T00:00:00"
+  }
+]
