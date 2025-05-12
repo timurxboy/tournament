@@ -67,9 +67,9 @@ DB_PORT и TEST_DB_PORT - предпочетается написать 5432 и 
 
 
 ### 3. Запустите контейнеры Docker
-Запустите все сервисы с помощью Docker Compose:
+Запустите все сервисы с помощью Docker Compose в фоновом режиме:
 ```
-docker-compose up --build
+docker-compose up --build -d
 ```
 
 
