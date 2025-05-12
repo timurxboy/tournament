@@ -64,7 +64,7 @@ docker-compose up --build
 После запуска контейнеров, примените миграции:
 
 ```
-docker-compose exec app alembic upgrade head
+docker-compose exec app poetry run alembic upgrade head
 ```
 
 ### 5. Откройте документацию API
